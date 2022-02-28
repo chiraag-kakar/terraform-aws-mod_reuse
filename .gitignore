@@ -7,3 +7,5 @@
 
 #Crash log files
 *.log
+
+provider.tf
